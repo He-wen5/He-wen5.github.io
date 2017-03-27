@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html>
-<head>
 <script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?c7cb05fc31dfe403d5f8f668018b3b77";
+  hm.src = "https://hm.baidu.com/hm.js?b90fdbaa24cdd65d97960d2037ea2b8b";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
+
+<html>
+<head>
+
 
 	<meta charset="utf-8">
 	<title>何诚</title>
