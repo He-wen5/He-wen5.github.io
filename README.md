@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <HTML>
   <head>
     <title>左晨安喜爱的游戏</title>
